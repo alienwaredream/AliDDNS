@@ -1,6 +1,7 @@
-# AliDDNS
-AliDDNS 2.0
-2. AliDDNS 2.0 部署教程
+下载地址：
+最新版本：https://ilemonrain.com/download/shell/AliDDNSv2.sh
+
+AliDDNS 2.0 部署教程
 
 脚本整体不需要做任何修改！如果你不理解AliDDNS 2.0的运行原理，请不要擅自改动！因乱改脚本核心导致运行崩溃，作者有权拒绝回答任何问题！
 首先，登录你的服务器，安装必需组件：
